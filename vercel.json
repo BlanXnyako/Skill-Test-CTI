@@ -35,7 +35,7 @@
         "APP_ENV": "production",
         "APP_DEBUG": "false",
         "APP_URL": "https://joshua.skilltestcti.app/",
-        "APP_KEY": "base64:aEDh0+Jb8IeL5N+iZypw3mUOE8nxKwA4xA3Kym2EFU4=",
+        "APP_KEY": "base64:pbKJNz450VrfICgMsxSij6gRXV/bqGILBkYgKTxhrrM=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
         "APP_PACKAGES_CACHE": "/tmp/packages.php",
