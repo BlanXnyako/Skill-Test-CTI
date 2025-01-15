@@ -10,7 +10,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
 
     <title>Document</title>
-    <link rel="stylesheet" href="{{ asset('bootstrap-5.3.3-dist/css/bootstrap.min.css')}}">
+    <link rel="stylesheet" href="/bootstrap-5.3.3-dist/css/bootstrap.min.css">
 </head>
 <body>
     
@@ -74,6 +74,6 @@
     </footer>
 
 
-    <script src="{{ asset('bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js') }}"></script>
+    <script src="/bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js" defer></script>
 </body>
 </html>
