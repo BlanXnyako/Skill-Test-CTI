@@ -11,6 +11,18 @@
         }
     ],
     "routes": [
+         {
+            "src": "/bootstrap-5.3.3-dist/css/(.*)",
+            "dest": "/public/bootstrap-5.3.3-dist/css/"
+        },
+        {
+            "src": "/bootstrap-5.3.3-dist/js/(.*)",
+            "dest": "/public/bootstrap-5.3.3-dist/js/"
+        },
+        {
+            "src": "/images/(.*)",
+            "dest": "/public/images/"
+        },
         {
             "src": "/(.*)",
             "dest": "/api/index.php"
