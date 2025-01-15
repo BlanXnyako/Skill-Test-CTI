@@ -28,6 +28,7 @@
             "dest": "/api/index.php"
         }
     ],
+    "public": true,
     "buildCommand": "vite build",
     "env": {
         "APP_ENV": "production",
